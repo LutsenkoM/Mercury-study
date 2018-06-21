@@ -6,7 +6,7 @@ import './App.css';
 class App extends React.Component {
   render() {
     return (
-        <section className="merkury-wrap">
+        <section className="mercury-wrap">
             <div className="admin-block">
                 <Header/>
                 <Main/>
