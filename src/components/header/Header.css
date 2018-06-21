@@ -1,0 +1,30 @@
+.admin-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #2b81af;
+}
+.admin-header ul {
+    list-style: none;
+    display: inline-block;
+    margin: 0;
+}
+.admin-header ul li {
+    display: inline-block;
+    margin-left: 10px;
+}
+.admin-header ul li a{
+    color: white;
+    text-decoration: none;
+}
+.admin-header .active-link{
+    text-decoration: underline;
+}
+.logo {
+}
+.tabs-btns {
+
+}
